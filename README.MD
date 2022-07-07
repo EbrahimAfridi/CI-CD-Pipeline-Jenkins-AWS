@@ -1,7 +1,7 @@
 # Multistep Jenkins Pipeline on AWS
 
 ### This is a Multistep Pipeline in AWS which does Code Quality Scan, Security Scan and Deployment of Code.
-![Pipeline](https://images.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![Pipeline](successful-pipeline.png)
 ![Pipeline](pipelines.png)
 
 # Stages in this pipeline
